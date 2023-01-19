@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khalylu
-- 👀 I’m interested in Data Analysis and Machine Learning
+- 👀 I’m interested in Data Analysis and Machine Learning or getting in the IT field
 - 🌱 I’m currently perfecting my skills in Python for Data Science and Machine Learning
 - 💞️ I’m looking to collaborate and help analyze data sets with Python
 - 📫 How to reach me abubakarkhalil0@gmail.com
